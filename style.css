@@ -25,7 +25,7 @@ section {
     align-items: center;
     position: relative;
     padding: 35px 100px 70px 100px;
-    background-image: url('/assets/img8.jpg'); 
+    background-image: url('./assets/img8.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
